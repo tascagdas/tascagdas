@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tascagdas&label=Profile%20views&color=0e75b6&style=flat" alt="tascagdas" /> </p>
 
-- 🌱 I’m currently learning **Angular, Selenium Webdriver, NextJs**
+- 🌱 I’m currently learning **Selenium Webdriver**
 
-- 💬 Ask me about **ASP.NET, MVC, Angular, React**
+- 💬 Ask me about **ASP.NET, MVC, Angular, React, NextJs**
 
 - 📫 How to reach me **tascagdas@gmail.com**
 
